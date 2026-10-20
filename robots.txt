@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://miswar-image-search-n1jw5l.vercel.app/sitemap.xml
